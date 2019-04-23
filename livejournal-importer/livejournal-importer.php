@@ -3,10 +3,9 @@
 Plugin Name: LiveJournal Importer
 Plugin URI: http://wordpress.org/extend/plugins/livejournal-importer/
 Description: Import posts and comments from LiveJournal.
-Author: wordpressdotorg
+Author: wordpressdotorg, Andrey Sapegin
 Author URI: http://wordpress.org/
-Version: 0.5
-Stable tag: 0.5
+Version: 0.6
 License: GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 */
 
